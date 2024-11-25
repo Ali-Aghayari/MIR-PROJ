@@ -127,8 +127,6 @@ Here’s a sample output from the final search engine. Note that Phase 3 tools (
 
 [IMDb Search Results Demo](https://github.com/user-attachments/assets/61861608-44c3-4efc-acba-e269c91c8e2b)
 
-(Values next to movie titles indicate their rounded scores.)
-
 ---
 
 ## **Limitations**
